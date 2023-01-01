@@ -7,3 +7,6 @@ _Numerical Methods in Physics with Python_, Alex Gezerlis, Cambridge University 
 Additional material and errata collected by the author is availabe here: [https://numphyspy.org](https://numphyspy.org/).    
 
 The directory [tutorial_notebooks](tutorial_notebooks) contains two tutorial notebooks downloaded from [https://numphyspy.org/tutorials/](hhttps://numphyspy.org/tutorials/).   
+
+## Further reading:    
+1. [PEP 8 — Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)   
