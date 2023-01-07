@@ -10,3 +10,4 @@ The directory [tutorial_notebooks](tutorial_notebooks) contains two tutorial not
 
 ## Further reading:    
 1. [PEP 8 — Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)   
+2. [Idiomatic Python. Coding the smart way.](https://medium.com/the-andela-way/idiomatic-python-coding-the-smart-way-cc560fa5f1d6)     
