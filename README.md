@@ -11,5 +11,6 @@ The directory [tutorial_notebooks](tutorial_notebooks) contains two tutorial not
 ## Further reading:    
 1. Introduction to Computer Science using Python, Charles Dierbach, Wiley (2015)    
 2. [PEP 8 — Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)   
-3. [Idiomatic Python. Coding the smart way.](https://medium.com/the-andela-way/idiomatic-python-coding-the-smart-way-cc560fa5f1d6)     
+3. [Index of Python Enhancement Proposals (PEPs)](https://peps.python.org/)   
+4. [Idiomatic Python. Coding the smart way.](https://medium.com/the-andela-way/idiomatic-python-coding-the-smart-way-cc560fa5f1d6)     
 
